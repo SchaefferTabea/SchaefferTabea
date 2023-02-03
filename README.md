@@ -203,12 +203,5 @@
 	</center>
 <!-- GitHub Skills end -->
 
-<!-- GitHub Activity start -->
-## 🏆My Github Activity:
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=schaeffertabea&show_icons=true&locale=en&layout=compac)
-
-<!-- GitHub Activity end -->
-
 
 

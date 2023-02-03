@@ -190,10 +190,6 @@
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg">
 					</td>
           <td width="25%" align="center">
-						<span><strong>Flask</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
-					</td>
-          <td width="25%" align="center">
 						<span><strong>Docker</strong></span><br/>
 						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 					</td

@@ -2,6 +2,7 @@
 <h1 align="center">👋 Hello, Welcome to my Github profile</h1>
 <h1 align="center">I'm Tabea Schaeffer</h1>
 
+
 <p align="center">
 <a href="https://www.linkedin.com/in/tabea-s-8a4350197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tabea schaeffer" height="30" width="40" /></a>
 <a href="https://instagram.com/tabea.schaeffer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tabea.schaeffer" height="30" width="40" /></a>
@@ -18,6 +19,10 @@
 - 📄 I have a Bachelor in **Media Engineering (B. Eng)**
 - 🌱 I’m currently learning more about Web development 
 - 👨‍💻 All of my projects are available soon on my Website
+
+
+
+<a href="https://www.buymeacoffee.com/tabeaschaeffer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A 	Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schaeffertabea&label=Profile%20views&color=0e75b6&style=flat" alt="schaeffertabea" /> </p>
 <!-- GitHub About me section end -->
@@ -61,10 +66,6 @@
           <td width="25%" align="center">
 						<span><strong>Ruby</strong></span><br/>
 						<img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Express</strong></span><br/>
-						<img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
 					</td>
           <td width="25%" align="center">
 						<span><strong>Nodejs</strong></span><br/>
@@ -111,24 +112,6 @@
           <td width="25%" align="center">
 						<span><strong>C++</strong></span><br/>
 						<img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-					</td>
-          <td width="25%" align="center">
-						<span><strong>C#</strong></span><br/>
-						<img height="64px" width="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-					</td>
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
-- **Databases**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>MySql</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
 					</td>
 				</tr>
 			</tbody>
@@ -197,6 +180,10 @@
 			</tbody>
 		</table>
 	</center>
+	
+	
+	
+
 <!-- GitHub Skills end -->
 
 

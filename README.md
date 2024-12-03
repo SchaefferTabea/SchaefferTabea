@@ -18,13 +18,9 @@
 - 🔭 I’m currently Studying **MultiMediaTechnology(Master) at the FH Salzburg**
 - 📄 I have a Bachelor in **Media Engineering (B. Eng)**
 - 🌱 I’m currently learning more about Web development 
-- 👨‍💻 All of my projects are available soon on my Website
+- 👨‍💻 All of my projects are available soon on <a href="https://www.tabea.dev/" target="_blank">my Website</a>
+<img src="https://komarev.com/ghpvc/?username=schaeffertabea&label=Profile%20views&color=0e75b6&style=flat" alt="schaeffertabea" />
 
-
-
-<a href="https://www.buymeacoffee.com/tabeaschaeffer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A 	Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=schaeffertabea&label=Profile%20views&color=0e75b6&style=flat" alt="schaeffertabea" /> </p>
 <!-- GitHub About me section end -->
 
 <!-- GitHub Skills start -->
@@ -181,10 +177,15 @@
 		</table>
 	</center>
 	
-	
-	
 
 <!-- GitHub Skills end -->
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/tabeaschaeffer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A 	Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
+
+</p>
 
 
 
